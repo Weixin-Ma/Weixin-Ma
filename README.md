@@ -1,5 +1,5 @@
-<center>
-<font color="" size=6 face="">Imagination is more important than knowledge. </font>
+<p align=center><font color="" size=12 face="">Imagination is more important than knowledge. </font></p> 
+
 
 <font color="" size=6 face="">IKnowledge is limited.</font>
 
