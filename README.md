@@ -1,13 +1,12 @@
-<p align=center><font color="" size=12 face="">Imagination is more important than knowledge. </font></p> 
+<p align=center><font color="" size=15 face="">Imagination is more important than knowledge. </font></p> 
+
+<p align=center><font color="" size=15 face="">IKnowledge is limited.</font></p> 
+
+<p align=center><font color="" size=15 face="">Imagination encircles the world.</font>  </p> 
+
+<p align=center><font color="" size=10 face="">--Albert Einstein</font>  </p> 
 
 
-<font color="" size=6 face="">IKnowledge is limited.</font>
-
-<font color="" size=6 face="">Imagination encircles the world.</font>  
-
-<font color="" size=4 face="">--Albert Einstein</font>  
-
-</center> 
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/Weixin-Ma/Weixin-Ma/graphs/contributors"><img src="https://img.shields.io/github/contributors/Weixin-Ma/Weixin-Ma?color=blue"></a>
