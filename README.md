@@ -1,4 +1,4 @@
-# Imagination is more important than knowledge. For knowledge is limited to all we know and understand, while imagination embraces the entire world, and all there ever will be to know and understand. --Albert Einstein
+# Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world. --Albert Einstein
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
