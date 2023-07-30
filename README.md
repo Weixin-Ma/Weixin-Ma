@@ -1,10 +1,10 @@
-<p align=center><font color="" size=15 face="">Imagination is more important than knowledge. </font></p> 
+<p align=center><font color="" size=25 face="">Imagination is more important than knowledge. </font></p> 
 
-<p align=center><font color="" size=15 face="">IKnowledge is limited.</font></p> 
+<p align=center><font color="" size=25 face="">IKnowledge is limited.</font></p> 
 
-<p align=center><font color="" size=15 face="">Imagination encircles the world.</font>  </p> 
+<p align=center><font color="" size=25 face="">Imagination encircles the world.</font>  </p> 
 
-<p align=center><font color="" size=10 face="">--Albert Einstein</font>  </p> 
+<p align=center><font color="" size=25 face="">--Albert Einstein</font>  </p> 
 
 
 <!--   my-icons -->
