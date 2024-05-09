@@ -7,13 +7,11 @@
 <p align=center><font color="" size=25 face="">--Albert Einstein</font>  </p> 
 
 
-<!--   my-icons -->
-<p align="center">
-    <a href="https://github.com/Weixin-Ma/Weixin-Ma/graphs/contributors"><img src="https://img.shields.io/github/contributors/Weixin-Ma/Weixin-Ma?color=blue"></a>
-    <a href="https://github.com/Weixin-Ma/Weixin-Ma/stargazers"><img src="https://img.shields.io/github/stars/Weixin-Ma/Weixin-Ma.svg?logo=github"></a>
-    <a href="https://github.com/Weixin-Ma/Weixin-Ma/network/members"><img src="https://img.shields.io/github/forks/Weixin-Ma/Weixin-Ma.svg?color=blue&logo=github"></a>
-</p>
-
 
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Weixin+Ma,+you+can+call+me+Melo.;+Welcome+to+My+Github!)](https://git.io/typing-svg)
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Weixin-Ma&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weixin-Ma&hide_border=true">
+
